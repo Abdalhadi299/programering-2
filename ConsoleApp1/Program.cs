@@ -1,8 +1,8 @@
 ﻿int p1Hp = 100;
 int p2Hp = 100;
 
-string p1Name = "Alex";
-string p2Name = "Calin";
+string p1Name = "Hussien";
+string p2Name = "Abdalhadi";
 
 while (p1Hp > 0 || p2Hp > 0)
 
